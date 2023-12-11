@@ -13,7 +13,7 @@ Follow the instructions below to get started
 
 ## Conda environment
 
-To set up the conda environment and dowload the requirements enter these commands:
+To set up the conda environment and download the requirements enter these commands:
 
 `conda create --name minicomp python=3.9.7`
 
